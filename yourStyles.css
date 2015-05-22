@@ -1,5 +1,20 @@
 body {
   background-color: #e3e3e3;
 }
+<style>
+row-one {
+  background-color: #00ff00;
+  }
+row-two {
+  background-color:#ffff00;
+}
+row-three {
+  background-color: #ff0000;
+}
+row-four {
+  background-color: #0000ff;
+}
+</style>
+</body>
 
 /* Your Code Here */
